@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(29, 35, 51);
+    color: aliceblue;
+    
+}
+ 
+#bday-input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+h1{
+    color: aquamarine;
+}
+h3{
+    margin-bottom: 5rem;
+    font-style: italic;
+}
+
+#check-button{
+    margin-bottom: 2rem;
+    background-color: aquamarine;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    font-weight: bold;
+}
+
+#output{
+    color: darkorange;
+    font-size: larger;
+}
